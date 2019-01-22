@@ -25,7 +25,8 @@ footer-links:
   stackoverflow: 
   youtube: 
   googleplus: 
-disqus: 
+disqus:
+  shortname: BenTwist
 google_analytics: 
 url: 
 baseurl: ''
