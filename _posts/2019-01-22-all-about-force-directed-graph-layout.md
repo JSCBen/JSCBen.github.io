@@ -1,11 +1,11 @@
 ---
 title: All about force-directed graph layout
-date: 2019-01-22T00:00:00.000Z
-layout: post
-tags:
-  - vis, graph drawing
+date: 2019-01-22 00:00:00 Z
 categories:
-  - vis
+- vis
+tags:
+- vis, graph drawing
+layout: post
 ---
 
 # All about force-directed graph layout
