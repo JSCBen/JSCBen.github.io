@@ -1,5 +1,5 @@
 ---
-title: 2019 01 23 Es6 Top Features You Should Know
+title: Top Features You Should Know
 date: 2019-01-25 02:19:40.692000000 Z
 ---
 
