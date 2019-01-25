@@ -1,12 +1,6 @@
 ---
-title: ES6: Top features you should know
-date: 2019-01-23T00:00:00.000Z
-layout: post
-tags:
-  - javascript
-categories:
-  - code
-published: false
+title: 2019 01 23 Es6 Top Features You Should Know
+date: 2019-01-25 02:19:40.692000000 Z
 ---
 
 ## Const & Let
