@@ -1,5 +1,5 @@
 ---
-title: 2019 01 22 All About Force Directed Graph Layout
+title: All About Force Directed Graph Layout
 date: 2019-01-25 02:19:40.653000000 Z
 ---
 
