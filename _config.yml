@@ -49,3 +49,5 @@ exclude:
 - README.md
 - CNAME
 theme: minima
+plugins:
+  - jekyll-feed
