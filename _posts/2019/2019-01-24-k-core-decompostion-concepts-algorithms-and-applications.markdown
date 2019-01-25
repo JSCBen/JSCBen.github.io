@@ -6,6 +6,7 @@ categories:
 tags:
 - graph mining
 layout: post
+published: false
 ---
 
 - [ICDM 16 Tutorial](https://icdm2016.eurecat.cat/session/tutorial-4-2/)
