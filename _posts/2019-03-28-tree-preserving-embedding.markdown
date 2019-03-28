@@ -1,7 +1,7 @@
 ---
-layout: post
-title: "Tree Preserving Embedding"
-date: "2019-03-28 20:38:17 +0800"
+title: Tree Preserving Embedding
+date: 2019-03-28 12:38:17 Z
+published: false
 categories:
 - research notes
 tags:
