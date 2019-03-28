@@ -1,12 +1,10 @@
 ---
 title: Tree Preserving Embedding
 date: 2019-03-28 12:38:17 Z
-published: false
 categories:
 - research notes
 tags:
 - dimensionality reduction
-published: true
 ---
 
 ## Motivation
