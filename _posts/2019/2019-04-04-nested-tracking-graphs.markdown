@@ -1,12 +1,12 @@
 ---
-layout: post
-title: "Nested Tracking Graphs"
-date: "2019-04-04 16:13:14 +0800"
+title: Nested Tracking Graphs
+date: 2019-04-04 08:13:14 Z
 published: false
 categories:
 - research notes
 tags:
 - time-evolving-trees
+layout: post
 ---
 
 ## Motivation
